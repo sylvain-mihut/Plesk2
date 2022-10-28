@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&display=swap');
+
+div{
+    display: block;
+}
+
+body{
+    font-family: 'Roboto',Helvetica,Arial,Lucida,sans-serif;
+}
+
+h1,h3,h4{
+    font-family: 'Roboto slab', Helvetica,Arial,Lucida,sans-serif;
+}
+
+/* .partie1{
+
+} */
